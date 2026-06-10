@@ -3,7 +3,8 @@ Superstore sales data analysis using Python for data cleaning, SQL for analysis,
 
 
 
-# 📊 Sales Dashboard Projecthttps://github.com/Rajaneeshkumar-code/Superstore-Sales-Analysis
+# 📊 Sales Dashboard Project
+https://github.com/Rajaneeshkumar-code/Superstore-Sales-Analysis
 
 An end-to-end Data Analytics project that analyzes Superstore sales data using **Python**, **SQL**, and **Power BI**. The project focuses on data cleaning, business analysis, and interactive dashboard development to generate actionable business insights.
 
