@@ -7,7 +7,7 @@ Superstore sales data analysis using Python for data cleaning, SQL for analysis,
 
 An end-to-end Data Analytics project that analyzes Superstore sales data using **Python**, **SQL**, and **Power BI**. The project focuses on data cleaning, business analysis, and interactive dashboard development to generate actionable business insights.
 
-![Sales Dashboard](Screenshots/Dashboard_Screenshot.png)
+![Sales Dashboard](Screenshots/Dashboard_Screenshoot.png)
 
 ---
 
@@ -128,7 +128,7 @@ SQL queries were written to extract business insights, including:
 ## 📷 Dashboard Preview
 
 ### Sales Dashboard
-![Sales Dashboard](Screenshots/Dashboard_Screenshot.png)
+![Sales Dashboard](Screenshots/Dashboard_Screenshoot.png)
 
 ---
 
