@@ -52,7 +52,7 @@ Sales-Dashboard-Project/
 ├── Screenshots/
 │
 └── superstore_data_cleaning.ipynb/
-|__Readme.md
+|__ Readme.md
 
 ```
 
